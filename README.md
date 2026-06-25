@@ -23,7 +23,7 @@
 ## 💡 核心理念
 
 - **本地优先** — 数据不离开你的机器
-- **AI 全链路自动化** — 素材管理 → AI 标注 → 语义搜索 → 视频生成
+- **AI 全链路自动化** — 从生活与工作中发现需求，解决需求，即使使用者也是开发者
 - **开源精神** — 工具应该被理解和定制，而不是被锁在云端
 
 热爱探索新技术，构建让工作流更智能、更高效的工具。
@@ -55,7 +55,7 @@ Remotion-based dynamic scene AI video generation tool — input a description, g
 ## 💡 Principles
 
 - **Local-first** — Your data stays on your machine
-- **AI Full-chain Automation** — Asset management → AI tagging → Semantic search → Video generation
+- **AI Full-chain Automation** — Finding and solving real needs from life and work. User and developer, both at once.
 - **Open Source** — Tools should be understood and customized, not locked in the cloud
 
 I love exploring new technologies and building tools that make workflows smarter and more efficient.
